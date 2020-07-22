@@ -1,0 +1,59 @@
+* {
+    font-family: Lato, Arial, sans-serif;
+}
+
+table, tr, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 2px;
+}
+
+th {
+    background-color: green;
+    border: 1px solid black;
+    color: white;
+    height: 45px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    height: 150px;
+    background-image: url(https://pmcdeadline2.files.wordpress.com/2019/05/tv-sets-featured-image.jpg);
+}
+
+h2 {
+    color: green;
+}
+
+.Seasons {
+    text-align: center;
+}
+
+#thtitle {
+    width: 20%;
+}
+
+#thyear {
+    width: 5%;
+}
+
+#thimdblink {
+    width: 10%;
+}
+
+#thstatus {
+    width: 5%;
+}
+
+#thsummary {
+    width: 55%;
+}
+
+#thseasons {
+    width: 5%;
+}
+
+.Summary {
+    font-size: smaller;
+}
